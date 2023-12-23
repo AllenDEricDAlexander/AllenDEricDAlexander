@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<a>
+<div>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenDEricDAlexander)](https://github.com/anuraghazra/github-readme-stats)
-</a>
-<a>
+</div>
+<div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenDEricDAlexander)](https://github.com/anuraghazra/github-readme-stats)  
-</a>
+</div>
 
 
 
