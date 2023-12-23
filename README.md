@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-<div>
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenDEricDAlexander)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenDEricDAlexander)](https://github.com/anuraghazra/github-readme-stats)  
-</div>
 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllenDEricDAlexander" /> </div>
 
-
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=AllenDEricDAlexander"> </div>
 
 <!--
 **AllenDEricDAlexander/AllenDEricDAlexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
