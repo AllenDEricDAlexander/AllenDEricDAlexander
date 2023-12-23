@@ -7,7 +7,7 @@
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllenDEricDAlexander" /> </div>
 
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=AllenDEricDAlexander"> </div>
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=m0_52074396"> </div>
 
 <!--
 **AllenDEricDAlexander/AllenDEricDAlexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
