@@ -29,7 +29,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="" />
+<img align="right" width="88" src="https://at-luo-fu-web-img.oss-cn-hangzhou.aliyuncs.com/upload/pic_10.jpg" />
 
 <p>&emsp;&emsp;大家好，我是AtLuoFu。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
@@ -42,14 +42,14 @@
   
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="" />
+<img align="right" width="88" src="https://at-luo-fu-web-img.oss-cn-hangzhou.aliyuncs.com/upload/pic_10.jpg" />
 
 - [杭州安恒信息有限公司](https://www.dbappsecurity.com.cn/) &emsp; 📌 2023-8 —— 2024-1
 
   - 工作岗位：Java 开发实习生
   - 工作内容：安全开发相关
 
-<img align="right" width="88" src="" />
+<img align="right" width="88" src="https://at-luo-fu-web-img.oss-cn-hangzhou.aliyuncs.com/upload/pic_10.jpg" />
 
 - [广州易行数字有限公司](https://www.eingsoft.com/) &emsp; 📌 2022-12 —— 2023-03
 
