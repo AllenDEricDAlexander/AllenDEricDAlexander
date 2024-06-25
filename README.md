@@ -143,8 +143,7 @@
 
 <!-- START_SECTION:douban -->
 
-- <a href='https://github.com/AllenDEricDAlexander/Bee-MOM-MES' target='_blank'>Bee-MOM 一款开源的混合云下的支持DevOps的融合了大数据、智能制造、人工智能的制造运营管理系统</a> 🌟🌟🌟🌟🌟 力荐- from:2023-09 to:Now
-- <a href='https://github.com/AllenDEricDAlexander/Bee-MOM-MES' target='_blank'>Bee-MOM(An open-source manufacturing operation management system that supports DevOps and integrates big data, intelligent manufacturing, and artificial intelligence in a hybrid cloud) </a> 🌟🌟🌟🌟🌟 recommend strongly - from:2023-09 to:Now
+- <a href='https://github.com/AllenDEricDAlexander/Bee-MOM-MES' target='_blank'>Bee-MOM开源-混合云-DevOps-大数据-智能制造-人工智能的制造运营管理系统</a> 🌟🌟🌟🌟🌟 力荐- from:2023-09 to:Now
   - Progress is slow, look forward to further development! I will continue to develop if I am not so busy anymore.
 <!-- END_SECTION:douban -->
 
