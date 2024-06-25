@@ -69,15 +69,19 @@
     - 2020-12 河南省大学生机器人竞赛省赛一等奖；
     - 2021-12 亚太数模三等奖；
     - 2022-11 软著 - 基于DDD的学术交友论坛平台；
-    - 2022-6 蓝桥杯全国软件和信息技术专业人才大赛河南省赛一等奖，国赛二等奖；
-    - 2022-8 机械创新设计大赛河南省赛三等奖；
-    - 2022-5 河南省第十四届高教杯大学生先进成图技术与产品信息建模创新大赛团体特等等奖，个人机械类一等奖
-    - 2022-7 第十四届高教杯大学生先进成图技术与产品信息建模创新大赛国赛个人三等奖，国赛团体三等奖，国赛团体3D打印类二等奖。
+    - 2022-06 蓝桥杯全国软件和信息技术专业人才大赛河南省赛一等奖，国赛二等奖；
+    - 2022-08 机械创新设计大赛河南省赛三等奖；
+    - 2022-05 河南省第十四届高教杯大学生先进成图技术与产品信息建模创新大赛团体特等等奖，个人机械类一等奖
+    - 2022-07 第十四届高教杯大学生先进成图技术与产品信息建模创新大赛国赛个人三等奖，国赛团体三等奖，国赛团体3D打印类二等奖。
   - 额外自修课程：数据结构、计算机组成原理、算法设计与分析、操作系统、程序设计基础（C/C++、Java、Python、JS、Go、Rust等）、软件工程、数据库原理、计算机网络、UML建模与设计、机器学习、深度学习等。
  <img align="right" width="88" src="https://at-luo-fu-web-img.oss-cn-hangzhou.aliyuncs.com/upload/pic_10.jpg" />
 
-- 项目经历 &emsp; 📌 2021-4 —— 至今
+- 项目经历 &emsp; 📌 2021-04 —— 至今
 
+  - TODO
+  - TODO
+  - TODO
+  - TODO
   - TODO
   - TODO
  
@@ -128,6 +132,20 @@
 - <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 - <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 - <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+<!-- END_SECTION:douban -->
+
+</td></tr>
+<tr><td>
+
+### 🔭 I’m currently working on
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+
+<!-- START_SECTION:douban -->
+
+- <a href='https://github.com/AllenDEricDAlexander/Bee-MOM-MES' target='_blank'>Bee-MOM 一款开源的混合云下的支持DevOps的融合了大数据、智能制造、人工智能的制造运营管理系统</a> 🌟🌟🌟🌟🌟 力荐- from:2023-09 to:Now
+- <a href='https://github.com/AllenDEricDAlexander/Bee-MOM-MES' target='_blank'>Bee-MOM(An open-source manufacturing operation management system that supports DevOps and integrates big data, intelligent manufacturing, and artificial intelligence in a hybrid cloud) </a> 🌟🌟🌟🌟🌟 recommend strongly - from:2023-09 to:Now
+  - Progress is slow, look forward to further development! I will continue to develop if I am not so busy anymore.
 <!-- END_SECTION:douban -->
 
 </td></tr>
