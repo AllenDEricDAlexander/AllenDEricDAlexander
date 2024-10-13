@@ -13,10 +13,9 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://allendericdalexander.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://mp.weixin.qq.com/s/WlydbNJAoLXayt8W5N-P_w"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzI2OTM1MzY3NQ==&hid=1"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/390996134/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/m0_52074396/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/hot/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
   </div>
 
 </div>
@@ -78,12 +77,12 @@
 
 - 项目经历 &emsp; 📌 2021-04 —— 至今
 
-  - TODO
-  - TODO
-  - TODO
-  - TODO
-  - TODO
-  - TODO
+  - Coupon Service
+  - oslab&ostr
+  - Doing : Bee-MOM
+  - Bee-AuthCenter
+  - 论坛项目
+  - TODO : Personal AI Assistant - All In One Platform
  
   
 </td></tr>
@@ -98,6 +97,7 @@
 
 - <a href='https://allendericdalexander.github.io/2023/12/22/GitFlow/' target='_blank'>Git Flow</a> - 2023-12-22
 - <a href='https://allendericdalexander.github.io/2023/12/22/Linux%E7%BB%88%E7%AB%AF%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/' target='_blank'>Linux 终端管理工具</a> - 2023-12-22
+- others welcome to my github page
 <!-- END_SECTION:blog -->
 
 </td></tr>
@@ -110,11 +110,18 @@
 
 <!-- START_SECTION:brain -->
 
-- <a href='https://brain.sunguoqi.com/web/frontend/tools/git/git.html' target='_blank'>Git</a> - 2023-12-08
-- <a href='https://brain.sunguoqi.com/web/frontend/tools/package-manage/npm.html' target='_blank'>npm</a> - 2023-09-07
-- <a href='https://brain.sunguoqi.com/web/frontend/tools/package-manage/pnpm.html' target='_blank'>pnpm</a> - 2023-09-07
-- <a href='https://brain.sunguoqi.com/web/frontend/tools/package-manage/yarn.html' target='_blank'>yarn</a> - 2023-09-07
-- <a href='https://brain.sunguoqi.com/web/frontend/tools/vscode/vscode.html' target='_blank'>Vscode 权威指南</a> - 2023-12-08
+- <a href='https://brain.sunguoqi.com/web/frontend/tools/git/git.html' target='_blank'>Git</a> - 2024-10-13
+- <a href='https://sca.aliyun.com/en/docs/ai/overview/' target='_blank'>Spring Cloud Alibaba</a> - 2024-10-13
+- <a href='https://python.langchain.com/docs/introduction/' target='_blank'>Langchain introduction</a> - 2024-10-13
+- <a href='https://pytorch.org/tutorials/' target='_blank'>PyTorch Tutorials</a> - 2024-10-13
+- <a href='https://scikit-learn.org/stable/user_guide.html' target='_blank'>sk-learn User Guide</a> - 2024-10-13
+- <a href='https://www.rustwiki.org.cn/' target='_blank'>Rust Wiki</a> - 2024-10-13
+- <a href='https://kubernetes.io/zh-cn/docs/home/' target='_blank'>kubernetes 中文文档</a> - 2024-10-13
+- <a href='https://arxiv.org/' target='_blank'>arXiv</a> - 2024-10-13
+- <a href='#' target='_blank'>name</a> - 2024-10-13
+- <a href='#' target='_blank'>name</a> - 2024-10-13
+- <a href='#' target='_blank'>name</a> - 2024-10-13
+- <a href='#' target='_blank'>name</a> - 2024-10-13
 <!-- END_SECTION:brain -->
 
 </td></tr>
@@ -127,11 +134,19 @@
 
 <!-- START_SECTION:douban -->
 
-- <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-- <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-- <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-- <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-- <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+- <a href='https://book.douban.com/subject/5377669' target='_blank'>数据挖掘导论</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='https://book.douban.com/subject/26337727' target='_blank'>算法设计与分析基础</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='http://movie.douban.com/subject/27074564' target='_blank'>大数据之路</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='http://movie.douban.com/subject/5243775' target='_blank'>聪明的投资者</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='https://music.douban.com/subject/1077528' target='_blank'>通往奴役之路</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='https://music.douban.com/subject/2054669' target='_blank'>软件项目管理</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='https://music.douban.com/subject/27608239' target='_blank'>原则</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='https://music.douban.com/subject/10785583' target='_blank'>思考快与慢</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='https://music.douban.com/subject/' target='_blank'>TODO</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='https://music.douban.com/subject/' target='_blank'>TODO</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- 涉猎书籍范围较广（投资理财、产品、计算机科学、机器学习、RAG、软件工程、web、后端、数据库、大数据、项目管理、数学、架构、etc..）
+- 看书求理，须令自家胸中点头。与人谈理，须令人家胸中点头。
+- 谓读得熟，则不待解说，自晓其义也。
 <!-- END_SECTION:douban -->
 
 </td></tr>
