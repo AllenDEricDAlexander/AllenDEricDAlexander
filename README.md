@@ -167,7 +167,7 @@
 </table>
 
 
-<center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenDEricDAlexander)](https://github.com/anuraghazra/github-readme-stats)</center>
+<div align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenDEricDAlexander)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenDEricDAlexander)](https://github.com/anuraghazra/github-readme-stats)
 
