@@ -118,10 +118,10 @@
 - <a href='https://www.rustwiki.org.cn/' target='_blank'>Rust Wiki</a> - 2024-10-13
 - <a href='https://kubernetes.io/zh-cn/docs/home/' target='_blank'>kubernetes 中文文档</a> - 2024-10-13
 - <a href='https://arxiv.org/' target='_blank'>arXiv</a> - 2024-10-13
-- <a href='#' target='_blank'>name</a> - 2024-10-13
-- <a href='#' target='_blank'>name</a> - 2024-10-13
-- <a href='#' target='_blank'>name</a> - 2024-10-13
-- <a href='#' target='_blank'>name</a> - 2024-10-13
+- <a href='#' target='_blank'>TODO</a> - 2024-10-13
+- <a href='#' target='_blank'>TODO</a> - 2024-10-13
+- <a href='#' target='_blank'>TODO</a> - 2024-10-13
+- <a href='#' target='_blank'>TODO</a> - 2024-10-13
 <!-- END_SECTION:brain -->
 
 </td></tr>
@@ -136,14 +136,14 @@
 
 - <a href='https://book.douban.com/subject/5377669' target='_blank'>数据挖掘导论</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
 - <a href='https://book.douban.com/subject/26337727' target='_blank'>算法设计与分析基础</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='http://movie.douban.com/subject/27074564' target='_blank'>大数据之路</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='http://movie.douban.com/subject/5243775' target='_blank'>聪明的投资者</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='https://music.douban.com/subject/1077528' target='_blank'>通往奴役之路</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='https://music.douban.com/subject/2054669' target='_blank'>软件项目管理</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='https://music.douban.com/subject/27608239' target='_blank'>原则</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='https://music.douban.com/subject/10785583' target='_blank'>思考快与慢</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='https://music.douban.com/subject/' target='_blank'>TODO</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='https://music.douban.com/subject/' target='_blank'>TODO</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='http://book.douban.com/subject/27074564' target='_blank'>大数据之路</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='http://book.douban.com/subject/5243775' target='_blank'>聪明的投资者</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='https://book.douban.com/subject/1077528' target='_blank'>通往奴役之路</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='https://book.douban.com/subject/2054669' target='_blank'>软件项目管理</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='https://book.douban.com/subject/27608239' target='_blank'>原则</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='https://book.douban.com/subject/10785583' target='_blank'>思考快与慢</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='https://book.douban.com/subject/' target='_blank'>TODO</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
+- <a href='https://book.douban.com/subject/' target='_blank'>TODO</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
 - 涉猎书籍范围较广（投资理财、产品、计算机科学、机器学习、RAG、软件工程、web、后端、数据库、大数据、项目管理、数学、架构、etc..）
 - 看书求理，须令自家胸中点头。与人谈理，须令人家胸中点头。
 - 谓读得熟，则不待解说，自晓其义也。
@@ -167,14 +167,11 @@
 </table>
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenDEricDAlexander)](https://github.com/anuraghazra/github-readme-stats)
+<center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenDEricDAlexander)](https://github.com/anuraghazra/github-readme-stats)</center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenDEricDAlexander)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllenDEricDAlexander" /> </div>
-
-</div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllenDEricDAlexander" /> </div></div>
 
 <!--
   
