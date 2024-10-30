@@ -137,7 +137,7 @@
 
 <tr><td>
   
-### 📃 CS courses
+### 🌱 CS courses
 
 - [Introduction to Generative AI 2024 Spring](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php) 台湾大学 李宏毅 生成式人工智能导论
 - [计算机系统基础实验课](https://www.bilibili.com/video/BV1rb4y1V7A2) 南京大学 why_hy_y
