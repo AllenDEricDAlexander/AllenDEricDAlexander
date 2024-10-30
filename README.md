@@ -132,7 +132,17 @@
   - Bee-AuthCenter
   - 论坛项目
   - TODO : Personal AI Assistant - All In One Platform
- 
+
+ </td></tr>
+
+<tr><td>
+### 📃 CS courses
+
+- [Introduction to Generative AI 2024 Spring](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php) 台湾大学 李宏毅 生成式人工智能导论
+- [计算机系统基础实验课](https://www.bilibili.com/video/BV1rb4y1V7A2) 南京大学 why_hy_y
+- [cs 50](https://pll.harvard.edu/course/cs50-introduction-computer-science) 哈佛大学《计算机科学导论》
+- [6.031: Software Construction](https://web.mit.edu/6.031/www/sp21/) MIT 软件工程导论
+- 以上是我学过的开源lab
   
 </td></tr>
 
