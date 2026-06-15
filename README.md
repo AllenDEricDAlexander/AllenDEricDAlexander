@@ -133,6 +133,13 @@
   - TODO : Bee-MOM
   - TOOD : Bee-AuthCenter
   - TODO : FamilyAiButler
+  
+- 职业项目经历 &emsp; 📌 2023-01 —— 至今
+  - 太原重工MOM系统
+  - 安恒天枢漏洞中台
+  - 浙江交投集团票务系统
+  - 吉利集团财务共享平台
+  - Now : confidential information
 
  </td></tr>
 
