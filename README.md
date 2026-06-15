@@ -125,13 +125,14 @@
  <img align="right" width="88" src="https://at-luo-fu-web-img.oss-cn-hangzhou.aliyuncs.com/upload/pic_10.jpg" />
 
 - 项目经历 &emsp; 📌 2021-04 —— 至今
-
-  - Coupon Service
-  - oslab&ostr
-  - Doing : Bee-MOM
-  - Bee-AuthCenter
-  - 论坛项目
-  - TODO : Personal AI Assistant - All In One Platform
+  - Done : oslab&ostr
+  - Done : Egon-COLA
+  - Done : atluofu-dynamic-thread-pool
+  - Doing : CyberMario
+  - Doing : SmartReader
+  - TODO : Bee-MOM
+  - TOOD : Bee-AuthCenter
+  - TODO : FamilyAiButler
 
  </td></tr>
 
