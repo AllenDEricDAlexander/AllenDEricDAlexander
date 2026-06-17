@@ -1,272 +1,176 @@
-<div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 
-  <div>
-    <a href="https://allendericdalexander.github.io/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小马同学祝您今天愉快!&center=true&size=27" />
-    </a>
-  </div>
--->
-  <!-- for beauty 留个空行好看点
-  <div>&nbsp;</div>
-   -->
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://allendericdalexander.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzI2OTM1MzY3NQ==&hid=1"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/390996134/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/m0_52074396/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-  </div>
-  
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-  
-  <div>
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="center"> 
-      <a href="https://www.aliyun.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-icon.svg" alt="alibabacloud" width="40" height="40"/> </a> 
-      <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="css3" width="40" height="40"/> </a> 
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> 
-      <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-      <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
-      <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-      <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
-    </p>
-    <p align="center">
-      <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> 
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
-      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> 
-      <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-      <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-      <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
-      <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-    </p>
-    <p align="center">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a> 
-      <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-      <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> </a> 
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="pandas" width="40" height="40"/> </a>
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
-    </p>
-    <p align="center">
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-      <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
-      <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a>
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-      <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a> 
-    </p>
-  </div>
-
-</div>
-
-# 🙋 Hello
-
-<table>
-  
-<tr><td>
-
-### 🤺 About Me
-
-<img align="right" width="88" src="https://at-luo-fu-web-img.oss-cn-hangzhou.aliyuncs.com/upload/pic_10.jpg" />
-
-<p>&emsp;&emsp;大家好，我是AtLuoFu。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p></p>
-<p>&emsp;&emsp;2023-11 取得软件设计师资格证书-软考中级</p>
-<p>&emsp;&emsp;2024-05 取得系统分析师资格证书-软考高级</p>
-
-</td></tr>
-
-<tr><td>
-  
-### 🏢 Work Experience
-
-<img align="right" width="88" src="https://at-luo-fu-web-img.oss-cn-hangzhou.aliyuncs.com/upload/pic_10.jpg" />
-
-- [杭州安恒信息有限公司](https://www.dbappsecurity.com.cn/) &emsp; 📌 2023-08 —— 2024-01
-
-  - 工作岗位：Java 开发实习生
-  - 工作内容：安全开发，参与天枢-安全中台和天璇-威胁建模应用的开发，同时也辅助产品和测试进行需求分析和测试工作展开，部分负责了运维相关的工作，如CI/CD、配置管理等。
-
-<img align="right" width="88" src="https://at-luo-fu-web-img.oss-cn-hangzhou.aliyuncs.com/upload/pic_10.jpg" />
-
-- [广州易行数字有限公司](https://www.eingsoft.com/) &emsp; 📌 2022-12 —— 2023-03
-
-  - 工作岗位：Java 开发实习生
-  - 工作内容：参与工业互联网平台 EMOP(广州“中国制造2025”产业发展资金扶持项目) 的开发与维护工作，主要负责工业数仓建模、设备管理、物料管理、k8s环境运维管理、平台DevOps转型等工作。
-
-<img align="right" width="88" src="https://at-luo-fu-web-img.oss-cn-hangzhou.aliyuncs.com/upload/pic_10.jpg" />
-
-- 河南某双非 &emsp; 📌 2020-09 —— 2024-06
-
-  - 就读专业：机械设计制造及其自动化-四年
-  - 专业核心课程：机械原理、机械设计、机械制图、制造工艺学、互换性与技术测量（公差）、控制原理、传感器与检测技术、微机原理及应用、电工电子学、力学相关课程、工程材料及热处理、CAD/CAM/CAE、液压及气动。
-  - 在校履历：
-    - 2020-12 河南省大学生机器人竞赛省赛一等奖；
-    - 2021-12 亚太数模三等奖；
-    - 2022-11 软著 - 基于DDD的学术交友论坛平台；
-    - 2022-06 蓝桥杯全国软件和信息技术专业人才大赛河南省赛一等奖，国赛二等奖；
-    - 2022-08 机械创新设计大赛河南省赛三等奖；
-    - 2022-05 河南省第十四届高教杯大学生先进成图技术与产品信息建模创新大赛团体特等等奖，个人机械类一等奖
-    - 2022-07 第十四届高教杯大学生先进成图技术与产品信息建模创新大赛国赛个人三等奖，国赛团体三等奖，国赛团体3D打印类二等奖。
-  - 额外自修课程：数据结构、计算机组成原理、算法设计与分析、操作系统、程序设计基础（C/C++、Java、Python、JS、Go、Rust等）、软件工程、数据库原理、计算机网络、UML建模与设计、机器学习、深度学习等。
-  - 2023-11 取得软件设计师资格证书-软考中级；
-  - 2024-05 取得系统分析师资格证书-软考高级；
-  - 2024-10 软著 - beeAuth统一认证平台；
- <img align="right" width="88" src="https://at-luo-fu-web-img.oss-cn-hangzhou.aliyuncs.com/upload/pic_10.jpg" />
-
-- 项目经历 &emsp; 📌 2021-04 —— 至今
-  - Done : oslab&ostr
-  - Done : Egon-COLA
-  - Done : atluofu-dynamic-thread-pool
-  - Doing : CyberMario
-  - Doing : SmartReader
-  - TODO : Bee-MOM
-  - TOOD : Bee-AuthCenter
-  - TODO : FamilyAiButler
-  
-- 职业项目经历 &emsp; 📌 2023-01 —— 至今
-  - 太原重工MOM系统
-  - 安恒天枢漏洞中台
-  - 浙江交投集团票务系统
-  - 吉利集团财务共享平台
-  - Now : confidential information
-
- </td></tr>
-
-<tr><td>
-  
-### 🌱 CS courses
-
-- [Introduction to Generative AI 2024 Spring](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php) 台湾大学 李宏毅 生成式人工智能导论
-- [计算机系统基础实验课](https://www.bilibili.com/video/BV1rb4y1V7A2) 南京大学 why_hy_y
-- [cs 50](https://pll.harvard.edu/course/cs50-introduction-computer-science) 哈佛大学《计算机科学导论》
-- [6.031: Software Construction](https://web.mit.edu/6.031/www/sp21/) MIT 软件工程导论
-- 以上是我学过的开源lab
-  
-</td></tr>
-
-<tr><td>
-
-### 📃 Recent Blog
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-
-<!-- START_SECTION:blog -->
-
-- <a href='https://allendericdalexander.github.io/2023/12/22/GitFlow/' target='_blank'>Git Flow</a> - 2023-12-22
-- <a href='https://allendericdalexander.github.io/2023/12/22/Linux%E7%BB%88%E7%AB%AF%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/' target='_blank'>Linux 终端管理工具</a> - 2023-12-22
-- <a href='https://allendericdalexander.github.io' target='_blank'>others welcome to my github page</a> 
-<!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
-
-### 🧠 Second Brain
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
-<!-- START_SECTION:brain -->
-
-- <a href='https://brain.sunguoqi.com/web/frontend/tools/git/git.html' target='_blank'>Git</a> - 2024-10-13
-- <a href='https://sca.aliyun.com/en/docs/ai/overview/' target='_blank'>Spring Cloud Alibaba</a> - 2024-10-13
-- <a href='https://python.langchain.com/docs/introduction/' target='_blank'>Langchain introduction</a> - 2024-10-13
-- <a href='https://pytorch.org/tutorials/' target='_blank'>PyTorch Tutorials</a> - 2024-10-13
-- <a href='https://scikit-learn.org/stable/user_guide.html' target='_blank'>sk-learn User Guide</a> - 2024-10-13
-- <a href='https://www.rustwiki.org.cn/' target='_blank'>Rust Wiki</a> - 2024-10-13
-- <a href='https://kubernetes.io/zh-cn/docs/home/' target='_blank'>kubernetes 中文文档</a> - 2024-10-13
-- <a href='https://arxiv.org/' target='_blank'>arXiv</a> - 2024-10-13
-- <a href='#' target='_blank'>TODO</a> - 2024-10-13
-- <a href='#' target='_blank'>TODO</a> - 2024-10-13
-- <a href='#' target='_blank'>TODO</a> - 2024-10-13
-- <a href='#' target='_blank'>TODO</a> - 2024-10-13
-<!-- END_SECTION:brain -->
-
-</td></tr>
-
-<tr><td>
-
-### 🤾‍♂️ Funny Soul
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
-
-<!-- START_SECTION:douban -->
-
-- <a href='https://book.douban.com/subject/5377669' target='_blank'>数据挖掘导论</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='https://book.douban.com/subject/26337727' target='_blank'>算法设计与分析基础</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='http://book.douban.com/subject/27074564' target='_blank'>大数据之路</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='http://book.douban.com/subject/5243775' target='_blank'>聪明的投资者</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='https://book.douban.com/subject/1077528' target='_blank'>通往奴役之路</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='https://book.douban.com/subject/2054669' target='_blank'>软件项目管理</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='https://book.douban.com/subject/27608239' target='_blank'>原则</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='https://book.douban.com/subject/10785583' target='_blank'>思考快与慢</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- <a href='https://book.douban.com/subject/27039508' target='_blank'>企业IT架构转型之道：阿里巴巴中台战略思想与架构实战</a> 🌟🌟🌟🌟🌟 力荐- 2024-11-13
-- <a href='https://book.douban.com/subject/34798830' target='_blank'>数据挖掘导论</a> 🌟🌟🌟🌟🌟 力荐- 2024-11-13
-- <a href='https://book.douban.com/subject/36764820' target='_blank'>大模型应用开发极简入门</a> 🌟🌟🌟🌟🌟 力荐- 2024-11-13
-- <a href='https://book.douban.com/subject/5243775' target='_blank'>聪明的投资者</a> 🌟🌟🌟🌟🌟 力荐- 2024-11-13
-- <a href='https://book.douban.com/subject/36818907' target='_blank'>Effective Java</a> 🌟🌟🌟🌟🌟 力荐- 2024-11-13
-- <a href='https://book.douban.com/subject/' target='_blank'>TODO</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-13
-- 涉猎书籍范围较广（投资理财、产品、计算机科学、机器学习、RAG、软件工程、web、后端、数据库、大数据、项目管理、数学、架构、etc..）
-- 看书求理，须令自家胸中点头。与人谈理，须令人家胸中点头。
-- 谓读得熟，则不待解说，自晓其义也。
-<!-- END_SECTION:douban -->
-
-</td></tr>
-<tr><td>
-
-### 🔭 I’m currently working on
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
-<!-- START_SECTION:douban -->
-
-- <a href='https://github.com/AllenDEricDAlexander/Bee-MOM-MES' target='_blank'>Bee-MOM开源-混合云-DevOps-大数据-智能制造-人工智能的制造运营管理系统</a> 🌟🌟🌟🌟🌟 力荐- from:2023-09 to:Now
-  - Progress is slow, look forward to further development! I will continue to develop if I am not so busy anymore.
-<!-- END_SECTION:douban -->
-
-</td></tr>
-
-</table>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AllenDEricDAlexander"  width="70%">
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AllenDEricDAlexander&include_all_commits=true&count_private-true&custom_title=AllenDEricDAlexander'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9" width="40%">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenDEricDAlexander&layout=compact" width="40%">
-
-
-</div>
-
-
 <!--
-
-<div align="center"> <img src="https://metrics.lecoq.io/AllenDEricDAlexander?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
-<img align="center" src="https://stats.justsong.cn/api/csdn/?id=m0_52074396&theme=dark">
-
-<img src="https://activity-graph.herokuapp.com/graph?username=AllenDEricDAlexander&theme=dracula">
-
-  
-**AllenDEricDAlexander/AllenDEricDAlexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Profile README for AllenDEricDAlexander
+  Keep it clean: one clear identity, a small set of strong projects, and sections that are easy to scan.
 -->
+
+<div align="center">
+
+# 👋 Hi, I'm ALLEN / AtLuoFu
+
+### Java Backend Developer · AI Agent Builder · System Design Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&center=true&vCenter=true&width=760&lines=Java+Backend+%7C+Spring+Boot+%7C+Distributed+Systems;AI+Agent+%7C+RAG+%7C+MCP+%7C+Agent+Memory;React+%2B+TypeScript+%7C+Tauri+%7C+Developer+Tools;Building+useful+systems%2C+not+just+pretty+demos" alt="Typing SVG" />
+
+<br />
+
+[![GitHub](https://img.shields.io/badge/GitHub-AllenDEricDAlexander-181717?style=flat-square&logo=github)](https://github.com/AllenDEricDAlexander)
+[![Blog](https://img.shields.io/badge/Blog-allendericdalexander.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://allendericdalexander.github.io/)
+[![Second Brain](https://img.shields.io/badge/Second%20Brain-notes%20%26%20learning-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://brain.sunguoqi.com/)
+[![X](https://img.shields.io/badge/X-ERICALL11189857-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ERICALL11189857)
+
+</div>
+
+---
+
+## 🧭 About Me
+
+I am a **Java backend developer** focused on building reliable systems, AI-native tools, and developer productivity products.
+
+- 🧱 I care about **clean architecture, domain modeling, observability, and maintainability**.
+- 🤖 I am building around **AI agents, RAG, MCP, Agent Memory, RBAC, and model-call auditing**.
+- 🖥️ I also enjoy building **desktop utilities and full-stack tools** with React, TypeScript, Tauri, and Rust.
+- 📚 I keep learning through open courses, source code reading, books, and real engineering practice.
+
+> Build systems that are useful first, elegant second, and boring to maintain.  
+> 好系统不是“看起来很猛”，而是半夜报警时你还能看懂它为什么炸。
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-21%2F25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-v2-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+| Area | What I use |
+| --- | --- |
+| Backend | Java, Spring Boot, WebFlux, Spring Security, JPA, MyBatis Plus, Flyway |
+| AI Engineering | Spring AI Alibaba, RAG, pgvector, MCP, Agent Memory, model-call audit |
+| Data & Infra | PostgreSQL, Redis, Nacos, Docker, Kubernetes, GitHub Actions, Linux |
+| Frontend & Desktop | React, TypeScript, Vite, Bun, Ant Design, Tauri, Rust |
+| Engineering Taste | DDD, layered architecture, observability, testability, automation |
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/AllenDEricDAlexander/CyberMario">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=AllenDEricDAlexander&repo=CyberMario&theme=transparent&hide_border=true" alt="CyberMario" />
+</a>
+<a href="https://github.com/AllenDEricDAlexander/SmartReader">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=AllenDEricDAlexander&repo=SmartReader&theme=transparent&hide_border=true" alt="SmartReader" />
+</a>
+<a href="https://github.com/AllenDEricDAlexander/skill-opt-spring-boot-starter">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=AllenDEricDAlexander&repo=skill-opt-spring-boot-starter&theme=transparent&hide_border=true" alt="skill-opt-spring-boot-starter" />
+</a>
+<a href="https://github.com/AllenDEricDAlexander/FamilyAiButler">
+  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=AllenDEricDAlexander&repo=FamilyAiButler&theme=transparent&hide_border=true" alt="FamilyAiButler" />
+</a>
+
+</div>
+
+| Project | Positioning | Keywords |
+| --- | --- | --- |
+| [CyberMario](https://github.com/AllenDEricDAlexander/CyberMario) | Full-stack AI workspace for agents, memory, RAG, MCP, auditing, and RBAC-backed administration. | Spring Boot 3.5, WebFlux, React, pgvector, Redis |
+| [SmartReader](https://github.com/AllenDEricDAlexander/SmartReader) | Desktop PDF reader focused on local file opening, reading, search, bookmarks, annotations, and session recovery. | React, TypeScript, Tauri, Rust, SQLite, PDF.js |
+| [skill-opt-spring-boot-starter](https://github.com/AllenDEricDAlexander/skill-opt-spring-boot-starter) | Spring Boot starter experiment for evidence-driven agent skill optimization and validation-gated package export. | Spring Boot, Agent Skill, Nacos, SQLite, Validation |
+| [FamilyAiButler](https://github.com/AllenDEricDAlexander/FamilyAiButler) | Family AI assistant platform with backend, frontend, desktop, and ops-oriented project governance. | Spring Cloud, Spring AI, React Native, Tauri, K8s |
+| [SmartCodex](https://github.com/AllenDEricDAlexander/SmartCodex) | Local Codex helper scripts, notification hooks, and workflow tooling for better agent development experience. | Python, macOS, Hooks, Automation |
+| [Bee-MOM-MES](https://github.com/AllenDEricDAlexander/Bee-MOM-MES) | Industrial digital architecture exploration around MOM/MES, industrial big data, private cloud, and DevIndOps. | MES, MOM, Industrial Data, DevOps |
+
+---
+
+## 🧪 Current Focus
+
+```yaml
+now_building:
+  - CyberMario: "AI workspace with Agent Memory, RAG, MCP, RBAC, and model-call auditing"
+  - SmartReader: "desktop-first reading tool for local PDF workflows"
+  - Skill Optimization: "agent skill package optimization with evidence, sandbox, and validation gate"
+
+researching:
+  - Spring AI Alibaba + pgvector RAG
+  - WebFlux + blocking persistence boundary design
+  - MCP tool governance and permission model
+  - Agent memory, context engineering, and long-term knowledge systems
+
+principles:
+  - production_first
+  - observable_by_default
+  - documentation_close_to_code
+  - boring_maintenance_is_a_feature
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AllenDEricDAlexander&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenDEricDAlexander&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top Languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=AllenDEricDAlexander&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🧠 Learning Map
+
+<details>
+<summary><b>Courses, labs, and long-term learning</b></summary>
+
+- Generative AI: 李宏毅《生成式人工智能导论》
+- Software Engineering: MIT 6.031 Software Construction
+- CS Fundamentals: CS50, OS, computer networks, algorithms, databases
+- Engineering Practice: DDD, Spring ecosystem, distributed systems, DevOps, observability
+- Reading interests: software engineering, architecture, AI, RAG, databases, investment, product thinking
+
+</details>
+
+<details>
+<summary><b>Career snapshot</b></summary>
+
+- Java backend development, security platform development, industrial internet platform, enterprise finance system practice.
+- 2023-11: 软件设计师资格证书 / 软考中级
+- 2024-05: 系统分析师资格证书 / 软考高级
+- 2024-10: 软件著作权 - beeAuth 统一认证平台
+
+</details>
+
+---
+
+## 🧩 Engineering Notes
+
+I like projects that combine **business modeling + backend engineering + AI capability + usable frontend**.
+
+```text
+Good code is not just code that runs.
+Good code is code that can be changed, observed, explained, and trusted.
+```
+
+<div align="center">
+
+### Thanks for visiting 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" alt="footer" />
+
+</div>
