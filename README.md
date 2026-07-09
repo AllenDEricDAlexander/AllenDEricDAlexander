@@ -62,7 +62,6 @@
 
 ## 🧭 Current Focus
 
-```yaml
 now_building:
   - Egon-COLA:
       direction: "Java 21 clean layered architecture, archetypes, and reusable enterprise components"
@@ -89,7 +88,6 @@ principles:
   - observable_by_default
   - documentation_close_to_code
   - boring_maintenance_is_a_feature
-```
 
 ---
 
@@ -266,22 +264,6 @@ I read broadly across **software engineering, architecture, AI, RAG, backend sys
 
 > 看书求理，须令自家胸中点头。与人谈理，须令人家胸中点头。  
 > 谓读得熟，则不待解说，自晓其义也。
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AllenDEricDAlexander&theme=tokyonight&hide_border=true" width="70%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AllenDEricDAlexander&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&custom_title=Allen's%20GitHub%20Stats" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenDEricDAlexander&layout=compact&hide_border=true&theme=tokyonight" width="36%" />
-
-</div>
 
 ---
 
