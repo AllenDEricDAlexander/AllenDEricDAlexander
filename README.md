@@ -41,8 +41,6 @@
 
 ## 🙋 About Me
 
-<img align="right" width="120" src="https://at-luo-fu-web-img.oss-cn-hangzhou.aliyuncs.com/upload/pic_10.jpg" />
-
 大家好，我是 **AtLuoFu / ALLEN**。
 
 - 💻 I work mainly as a **Java backend developer**, focusing on enterprise systems, service architecture, and engineering productivity.
